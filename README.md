@@ -8,3 +8,4 @@
 * C#
 * C++
 * Web Dev
+* Python
